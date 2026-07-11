@@ -1,8 +1,8 @@
 {
   "versao": 1,
   "links": {
-    "pedidos": "",
-    "bugs": ""
+    "pedidos": "https://github.com/DeadShepurd/Traducoes/issues/new?template=pedido-de-traducao.yml",
+    "bugs": "https://github.com/DeadShepurd/Traducoes/issues/new?template=relatar-problema.yml"
   },
   "traducoes": [
     {
