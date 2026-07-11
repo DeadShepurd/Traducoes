@@ -1,0 +1,30 @@
+name: "✉ Pedido de tradução"
+description: "Peça a tradução de um jogo para o português do Brasil"
+title: "[PEDIDO] "
+labels: ["pedido"]
+body:
+  - type: input
+    id: jogo
+    attributes:
+      label: "Qual jogo?"
+      description: "Nome completo e onde ele está (Steam, GOG, Epic...)"
+      placeholder: "Ex.: Roadwarden (Steam)"
+    validations:
+      required: true
+  - type: input
+    id: engine
+    attributes:
+      label: "Tipo/engine do jogo (se souber)"
+      placeholder: "Ex.: Ren'Py, RPG Maker, não sei"
+  - type: textarea
+    id: motivo
+    attributes:
+      label: "Por que esse jogo merece tradução?"
+      placeholder: "Conte um pouco — jogos com mais pedidos sobem na fila!"
+  - type: checkboxes
+    id: confirmo
+    attributes:
+      label: "Confirmação"
+      options:
+        - label: "Procurei no catálogo e esse jogo ainda não está lá"
+          required: true
