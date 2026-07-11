@@ -1,0 +1,53 @@
+{
+  "versao": 1,
+  "links": {
+    "pedidos": "",
+    "bugs": ""
+  },
+  "traducoes": [
+    {
+      "jogo": "Sword Art Online Re: Hollow Fragment",
+      "status": "andamento",
+      "progresso": 65,
+      "tradutor": "ShepUrd",
+      "versao": "",
+      "notas": "Menus e sistema traduzidos e testados no jogo. Diálogos em andamento (26 mil de 40 mil falas).",
+      "arquivo_url": "",
+      "instalar_como": "localize_msg.dat",
+      "pasta_dica": ""
+    },
+    {
+      "jogo": "The Elder Scrolls III: Morrowind",
+      "status": "andamento",
+      "progresso": 70,
+      "tradutor": "ShepUrd",
+      "versao": "",
+      "notas": "Grande parte dos diálogos traduzida. Sistema de proteção de links de tópicos ativo.",
+      "arquivo_url": "",
+      "instalar_como": "Morrowind_PTBR.esp",
+      "pasta_dica": "Pasta Data Files do jogo; ativar o plugin no launcher"
+    },
+    {
+      "jogo": "Zombie Exodus: Safe Haven",
+      "status": "andamento",
+      "progresso": 5,
+      "tradutor": "ShepUrd",
+      "versao": "",
+      "notas": "Criação de personagem jogável em português. Capítulos em tradução.",
+      "arquivo_url": "",
+      "instalar_como": "app.asar",
+      "pasta_dica": "steamapps\\common\\Zombie Exodus Safe Haven\\resources"
+    },
+    {
+      "jogo": "Roadwarden",
+      "status": "pedida",
+      "progresso": 0,
+      "tradutor": "",
+      "versao": "",
+      "notas": "Suporte técnico pronto; tradução ainda não iniciada.",
+      "arquivo_url": "",
+      "instalar_como": "",
+      "pasta_dica": ""
+    }
+  ]
+}
