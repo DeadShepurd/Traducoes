@@ -1,0 +1,30 @@
+name: "🐞 Relatar problema"
+description: "Algo deu errado com uma tradução ou com o programa"
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: onde
+    attributes:
+      label: "Onde está o problema?"
+      options:
+        - "Tradução — Sword Art Online Re: Hollow Fragment"
+        - "Tradução — The Elder Scrolls III: Morrowind"
+        - "Tradução — Zombie Exodus: Safe Haven"
+        - "Programa Tradutor de Jogos"
+        - "Outro"
+    validations:
+      required: true
+  - type: textarea
+    id: oque
+    attributes:
+      label: "O que aconteceu?"
+      description: "Descreva o problema. Pode arrastar prints para cá!"
+      placeholder: "Ex.: o texto da missão X aparece cortado..."
+    validations:
+      required: true
+  - type: textarea
+    id: passos
+    attributes:
+      label: "Como fazer o problema acontecer?"
+      placeholder: "1. Abro o jogo\n2. Vou em...\n3. Aparece..."
