@@ -49,5 +49,10 @@
       "instalar_como": "",
       "pasta_dica": ""
     }
-  ]
+  ],
+  "doacao": {
+    "pix": "eudedegoes1@gmail.com",
+    "url": "https://ko-fi.com/shepurd",
+    "mensagem": "Se as traduções te ajudaram, considere apoiar o trabalho. Qualquer valor é bem-vindo!"
+  }
 }
