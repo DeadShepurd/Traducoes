@@ -1,7 +1,7 @@
 # 🎮 Traduções de Jogos PT-BR — por ShepUrd
 
 Traduções de fã, feitas com carinho para a comunidade brasileira, usando o
-**Central de Traduções** — um programa próprio que traduz os arquivos originais
+**N7 Tradutor** — um programa próprio que traduz os arquivos originais
 com proteção de códigos e backup automático.
 
 ## 📥 Como usar as traduções
