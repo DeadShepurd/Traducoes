@@ -1,12 +1,12 @@
 # 🎮 Traduções de Jogos PT-BR — por ShepUrd
 
 Traduções de fã, feitas com carinho para a comunidade brasileira, usando o
-**Tradutor de Jogos** — programa próprio que traduz os arquivos originais
+**Tradutor de Jogos** — um programa próprio que traduz os arquivos originais
 com proteção de códigos e backup automático.
 
 ## 📥 Como usar as traduções
 
-1. Baixe o programa **Tradutor de Jogos** (link na aba *Releases*).
+1. Baixe o programa **Central de Traduções** (link na aba *Releases*).
 2. Abra e escolha **"Quero baixar traduções"**.
 3. Cole o link do catálogo quando o programa pedir:
    (clique em `catalogo.json` aqui em cima → botão **Raw** → copie o endereço)
