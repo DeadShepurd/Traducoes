@@ -1,36 +1,33 @@
-# 🎮 Traduções de Jogos PT-BR — por ShepUrd
+# 🎮 Traduções — ShepUrd
 
-Traduções de fã, feitas com carinho para a comunidade brasileira, usando o
-**N7 Tradutor** — um programa próprio que traduz os arquivos originais
-com proteção de códigos e backup automático.
+Traduções de fã, feitas com carinho para a comunidade brasileira — traduzidas e publicadas com ferramentas próprias.
 
-## 📥 Como usar as traduções
+## ⬇ Como jogar em português (o jeito fácil)
 
-1. Baixe o programa **Central de Traduções** (link na aba *Releases*).
-2. Abra e escolha **"Quero baixar traduções"**.
-3. Cole o link do catálogo quando o programa pedir:
-   (clique em `catalogo.json` aqui em cima → botão **Raw** → copie o endereço)
-4. Escolha o jogo, clique em **⬇ Baixar e instalar** e pronto —
-   o programa faz backup do original sozinho.
+1. Baixe a **N7Traduções** na aba [Releases](https://github.com/DeadShepurd/Traducoes/releases) (arquivo `Setup_N7Traducoes.exe` da versão `app-v` mais recente).
+2. Instale e abra — o catálogo carrega sozinho, com capas e tudo.
+3. Escolha o jogo → **⬇ BAIXAR E INSTALAR** → aponte a pasta do jogo. O programa guarda os originais na pasta *Backup Original* e o botão **↩ Restaurar** desfaz quando quiser.
 
-## 🕹️ Jogos
+> 💡 O Windows pode mostrar um aviso azul na primeira execução (programa independente, sem assinatura paga): clique em *Mais informações* → *Executar assim mesmo*.
 
-| Jogo | Status |
-|------|--------|
-| Sword Art Online Re: Hollow Fragment | 🟠 Em andamento |
-| The Elder Scrolls III: Morrowind | 🟠 Em andamento |
-| Zombie Exodus: Safe Haven | 🟠 Em andamento |
-| Roadwarden | ⚪ Pedida |
+## 🕹 Jogos
 
-*(o status ao vivo aparece dentro do programa)*
+| Jogo | Status | Progresso |
+|---|---|---|
+| Sword Art Online Re: Hollow Fragment | ⬜ Pedida | 0% |
 
-## ✉️ Pedidos e problemas
+## ❤ Apoiar
 
-Use os botões **"Pedir uma tradução"** e **"Relatar problema"** dentro do
-próprio programa.
+Se as traduções te ajudaram, considere apoiar o trabalho. Qualquer valor é bem-vindo, Obrigado!
 
-## ⚖️ Aviso
+**Pix:** `eudedegoes1@gmail.com`
 
-Traduções de fã, sem fins lucrativos, não afiliadas aos estúdios dos jogos.
-Você precisa possuir o jogo original. Os arquivos traduzidos contêm apenas
-o texto em português — compre e apoie os jogos oficiais.
+**Outras formas:** https://ko-fi.com/shepurd
+
+## 📝 Pedidos e problemas
+
+- [Pedir uma tradução](https://github.com/DeadShepurd/Traducoes/issues/new?template=pedido-de-traducao.yml)
+- [Relatar um problema](https://github.com/DeadShepurd/Traducoes/issues/new?template=relatar-problema.yml)
+
+---
+_Página atualizada automaticamente pelo Tradutor de Jogos._
