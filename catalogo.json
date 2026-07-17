@@ -11,6 +11,19 @@
   },
   "traducoes": [
     {
+      "jogo": "Sword Art Online Re: Hollow Fragment",
+      "status": "pedida",
+      "progresso": 0,
+      "tradutor": "ShepUrd",
+      "versao": "1.0",
+      "notas": "",
+      "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/sword-art-online-re-hollow-fragment.png",
+      "pagina": "",
+      "arquivo_url": "",
+      "instalar_como": "",
+      "pasta_dica": ""
+    },
+    {
       "jogo": "Sword Art Online",
       "status": "pedida",
       "progresso": 0,
