@@ -14,7 +14,7 @@ Traduções de fã, feitas com carinho para a comunidade brasileira — traduzid
 
 | Jogo | Status | Progresso |
 |---|---|---|
-| Sword Art Online Re: Hollow Fragment | ⬜ Pedida | 0% |
+| Sword Art Online Re: Hollow Fragment | 🟧 Em andamento | 0% |
 
 ## ❤ Apoiar
 
