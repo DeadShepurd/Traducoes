@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/30169452/README.md)
 # 🎮 Traduções — ShepUrd
 
 Traduções de fã, feitas com carinho para a comunidade brasileira — traduzidas e publicadas com ferramentas próprias.
@@ -14,7 +15,10 @@ Traduções de fã, feitas com carinho para a comunidade brasileira — traduzid
 
 | Jogo | Status | Progresso |
 |---|---|---|
-| Sword Art Online Re: Hollow Fragment | 🟧 Em andamento | 74% |
+| Sword Art Online Re: Hollow Fragment | 🟧 Em andamento | 73% |
+| Balrum | ✅ Disponível | 100% |
+| X: Beyond the Frontier | ✅ Disponível | 100% |
+| X-Tension | ✅ Disponível | 100% |
 
 ## ❤ Apoiar
 
