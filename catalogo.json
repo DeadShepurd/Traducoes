@@ -23,6 +23,48 @@
       "arquivo_nome": "fragment.zip",
       "instalar_como": "",
       "pasta_dica": "pasta onde está o SAOHollowFragment (Steam)"
+    },
+    {
+      "jogo": "Balrum",
+      "status": "pronta",
+      "progresso": 100,
+      "tradutor": "ShepUrd",
+      "versao": "1.0",
+      "notas": "Substitui os textos originais do jogo (o instalador guarda os arquivos originais na pasta 'Backup Original' e o botao Restaurar desfaz quando quiser).",
+      "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/balrum.png",
+      "pagina": "",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/balrum-v1.0/balrum-ptbr.zip",
+      "arquivo_nome": "balrum-ptbr.zip",
+      "instalar_como": "",
+      "pasta_dica": "pasta principal do Balrum (Steam)"
+    },
+    {
+      "jogo": "X: Beyond the Frontier",
+      "status": "pronta",
+      "progresso": 100,
+      "tradutor": "ShepUrd",
+      "versao": "1.0",
+      "notas": "Interface, HUD, comercio, banco de dados e campanha traduzidos. Texto sem acentos (limite da fonte do jogo).",
+      "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/x-beyond-the-frontier.png",
+      "pagina": "",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/x-btf-v1.0/x-beyond-the-frontier-ptbr.zip",
+      "arquivo_nome": "x-beyond-the-frontier-ptbr.zip",
+      "instalar_como": "",
+      "pasta_dica": "pasta principal do X Beyond the Frontier (Steam)"
+    },
+    {
+      "jogo": "X-Tension",
+      "status": "pronta",
+      "progresso": 100,
+      "tradutor": "ShepUrd",
+      "versao": "1.0",
+      "notas": "Traducao com abreviacoes para caber na interface. Texto sem acentos (limite da fonte do jogo).",
+      "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/x-tension.png",
+      "pagina": "",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/x-tension-v1.0/x-tension-ptbr.zip",
+      "arquivo_nome": "x-tension-ptbr.zip",
+      "instalar_como": "",
+      "pasta_dica": "pasta principal do X-Tension (Steam)"
     }
   ]
 }
