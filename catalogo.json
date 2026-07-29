@@ -12,17 +12,27 @@
   "traducoes": [
     {
       "jogo": "Sword Art Online Re: Hollow Fragment",
-      "status": "andamento",
-      "progresso": 99,
+      "status": "pronta",
+      "progresso": 100,
       "tradutor": "ShepUrd",
       "versao": "1.0",
-      "notas": "",
+      "notas": "Textos, historia, menus e legendas das cutscenes traduzidos. Instalacao em 2 partes (o programa baixa as duas em sequencia).",
       "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/sword-art-online-re-hollow-fragment.png",
       "pagina": "",
-      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/sao-re-hf-v0.7/fragment.zip",
-      "arquivo_nome": "fragment.zip",
+      "arquivo_url": "",
+      "arquivo_nome": "",
       "instalar_como": "",
-      "pasta_dica": "pasta onde está o SAOHollowFragment (Steam)"
+      "pasta_dica": "pasta principal do SAOHF (Steam)",
+      "arquivos": [
+        {
+          "url": "https://github.com/DeadShepurd/Traducoes/releases/download/sao-re-hf-v1.0/fragment_parte1.zip",
+          "nome": "fragment_parte1.zip"
+        },
+        {
+          "url": "https://github.com/DeadShepurd/Traducoes/releases/download/sao-re-hf-v1.0/fragment_parte2.zip",
+          "nome": "fragment_parte2.zip"
+        }
+      ]
     },
     {
       "jogo": "Balrum",
