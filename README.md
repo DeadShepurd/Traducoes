@@ -15,7 +15,7 @@ Traduções de fã, feitas com carinho para a comunidade brasileira — traduzid
 
 | Jogo | Status | Progresso |
 |---|---|---|
-| Sword Art Online Re: Hollow Fragment | 🟧 Em andamento | 78% |
+| Sword Art Online Re: Hollow Fragment | ✅ Disponível | 100% |
 | Balrum | ✅ Disponível | 100% |
 | X: Beyond the Frontier | ✅ Disponível | 100% |
 | X-Tension | ✅ Disponível | 100% |
