@@ -75,6 +75,21 @@
       "arquivo_nome": "x-tension-ptbr.zip",
       "instalar_como": "",
       "pasta_dica": "pasta principal do X-Tension (Steam)"
+    },
+    {
+      "jogo": "NARUTO: Ultimate Ninja STORM",
+      "status": "pronta",
+      "progresso": 100,
+      "tradutor": "ShepUrd",
+      "versao": "1.0",
+      "notas": "Edição final PT-BR. O instalador valida o jogo original e reconstrói automaticamente o dataRegion.cpk em 152 etapas.",
+      "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/naruto-ultimate-ninja-storm.png",
+      "pagina": "",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/Storm/Storm.zip",
+      "arquivo_nome": "Storm.zip",
+      "instalar_como": "",
+      "pasta_dica": "pasta principal QWANT do Naruto Storm 1 (Steam)",
+      "metodo": "naruto_storm1_cpk_22t"
     }
   ]
 }
