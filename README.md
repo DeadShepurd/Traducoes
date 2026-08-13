@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30169452/README.md)
+[README.md](https://github.com/user-attachments/files/31046792/README.md)
 # 🎮 Traduções — ShepUrd
 
 Traduções de fã, feitas com carinho para a comunidade brasileira — traduzidas e publicadas com ferramentas próprias.
@@ -19,6 +19,7 @@ Traduções de fã, feitas com carinho para a comunidade brasileira — traduzid
 | Balrum | ✅ Disponível | 100% |
 | X: Beyond the Frontier | ✅ Disponível | 100% |
 | X-Tension | ✅ Disponível | 100% |
+| NARUTO: Ultimate Ninja STORM | ✅ Disponível | 100% |
 
 ## ❤ Apoiar
 
