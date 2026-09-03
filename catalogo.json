@@ -105,6 +105,21 @@
       "tipo_instalacao": "mod_koh2",
       "pasta_mod": "N7_KOH2_PTBR",
       "pasta_dica": "%USERPROFILE%\\AppData\\LocalLow\\BlackSeaGames\\Sovereign\\Mods"
+    },
+    {
+      "jogo": "Millennia",
+      "status": "pronta",
+      "progresso": 100,
+      "tradutor": "ShepUrd",
+      "versao": "1.0",
+      "notas": "Tradução completa para português do Brasil com 14.288 textos, instalada automaticamente como mod local sem alterar o bundle original.",
+      "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/millennia.png",
+      "pagina": "",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/millennia-v1.0/millennia.zip",
+      "arquivo_nome": "millennia.zip",
+      "tipo_instalacao": "mod_millennia",
+      "pasta_mod": "N7-Millennia",
+      "pasta_dica": "%USERPROFILE%\\AppData\\LocalLow\\CPromptGames\\Millennia\\Mods"
     }
   ]
 }
