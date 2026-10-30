@@ -26,11 +26,15 @@
       "arquivos": [
         {
           "url": "https://github.com/DeadShepurd/Traducoes/releases/download/sao-re-hf-v1.0/fragment_parte1.zip",
-          "nome": "fragment_parte1.zip"
+          "nome": "fragment_parte1.zip",
+          "sha256": "078939fdfca0358937f9e8294f9d988010f0d388ce1a37506040e92df7304a5c",
+          "tamanho": 1718070440
         },
         {
           "url": "https://github.com/DeadShepurd/Traducoes/releases/download/sao-re-hf-v1.0/fragment_parte2.zip",
-          "nome": "fragment_parte2.zip"
+          "nome": "fragment_parte2.zip",
+          "sha256": "f7342e0bdfaa178d4f6082b4f37988d54118de435e174bf920772c181a376140",
+          "tamanho": 719268455
         }
       ]
     },
@@ -43,10 +47,12 @@
       "notas": "Substitui os textos originais do jogo. O instalador guarda os arquivos originais na pasta 'Backup Original', e o botão Restaurar desfaz a instalação quando quiser.",
       "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/balrum.png",
       "pagina": "",
-      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/balrum-v1.0/balrum-ptbr.zip",
-      "arquivo_nome": "balrum-ptbr.zip",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/balrum-v1.0/br.zip",
+      "arquivo_nome": "br.zip",
       "instalar_como": "",
-      "pasta_dica": "pasta principal do Balrum (Steam)"
+      "pasta_dica": "pasta principal do Balrum (Steam)",
+      "sha256": "32215ed81b5a00ce8551f728d12c35da6fc8e820183f58e9800868aa9427624d",
+      "tamanho": 358068
     },
     {
       "jogo": "X: Beyond the Frontier",
@@ -60,7 +66,9 @@
       "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/x-btf-v1.0/x-beyond-the-frontier-ptbr.zip",
       "arquivo_nome": "x-beyond-the-frontier-ptbr.zip",
       "instalar_como": "",
-      "pasta_dica": "pasta principal do X: Beyond the Frontier (Steam)"
+      "pasta_dica": "pasta principal do X: Beyond the Frontier (Steam)",
+      "sha256": "c07061874477122bad0ab7aab27aeff64790a07e16e2136b60edb513e7f602d6",
+      "tamanho": 14450151
     },
     {
       "jogo": "X-Tension",
@@ -74,7 +82,9 @@
       "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/x-tension-v1.0/x-tension-ptbr.zip",
       "arquivo_nome": "x-tension-ptbr.zip",
       "instalar_como": "",
-      "pasta_dica": "pasta principal do X-Tension (Steam)"
+      "pasta_dica": "pasta principal do X-Tension (Steam)",
+      "sha256": "fb4c61e30bb4703379082a43f345fe55241a916484243179637dc62564f3139e",
+      "tamanho": 19026651
     },
     {
       "jogo": "NARUTO: Ultimate Ninja STORM",
@@ -85,11 +95,13 @@
       "notas": "Edição final PT-BR. O instalador valida o jogo original e reconstrói automaticamente o dataRegion.cpk em 152 etapas.",
       "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/naruto-ultimate-ninja-storm.png",
       "pagina": "",
-      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/storm-v1.0/Storm.zip",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/Storm/Storm.zip",
       "arquivo_nome": "Storm.zip",
       "instalar_como": "",
       "pasta_dica": "pasta principal do NARUTO: Ultimate Ninja STORM (Steam)",
-      "metodo": "naruto_storm1_cpk_22t"
+      "metodo": "naruto_storm1_cpk_22t",
+      "sha256": "fdf512aaaccb4e876f81c244ab4b82212a7fa94fbea26fbda48cc7403c7571b5",
+      "tamanho": 51687565
     },
     {
       "jogo": "Knights of Honor II: Sovereign",
@@ -104,7 +116,9 @@
       "arquivo_nome": "koh2.zip",
       "tipo_instalacao": "mod_koh2",
       "pasta_mod": "N7_KOH2_PTBR",
-      "pasta_dica": "%USERPROFILE%\\AppData\\LocalLow\\BlackSeaGames\\Sovereign\\Mods"
+      "pasta_dica": "%USERPROFILE%\\AppData\\LocalLow\\BlackSeaGames\\Sovereign\\Mods",
+      "sha256": "59799ae10e4071800ffcd75ae84038788868c37270018c02c9599f4868577df9",
+      "tamanho": 932966
     },
     {
       "jogo": "Millennia",
@@ -119,7 +133,23 @@
       "arquivo_nome": "millennia.zip",
       "tipo_instalacao": "mod_millennia",
       "pasta_mod": "N7-Millennia",
-      "pasta_dica": "%USERPROFILE%\\AppData\\LocalLow\\CPromptGames\\Millennia\\Mods"
+      "pasta_dica": "%USERPROFILE%\\AppData\\LocalLow\\CPromptGames\\Millennia\\Mods",
+      "sha256": "a74b3a2a2d33b41cd8d5d3442882cc15915f41c6a202e934518d919ffa8b6447",
+      "tamanho": 689217
+    },
+    {
+      "jogo": "Generation Zero",
+      "status": "pronta",
+      "progresso": 100,
+      "tradutor": "ShepUrd",
+      "versao": "1.0",
+      "notas": "Tradução dos textos para português do Brasil. Requer N7Traduções v2.4.1 ou superior. Instalação direta nos arquivos TAB/ARC, com backup e restauração. Mantenha o idioma do jogo em English; não exige parâmetros extras na Steam.",
+      "imagem_url": "https://raw.githubusercontent.com/DeadShepurd/Traducoes/refs/heads/main/capas/generationzero.png",
+      "pagina": "https://github.com/DeadShepurd/Traducoes/releases/tag/generationzero-v1.0",
+      "arquivo_url": "https://github.com/DeadShepurd/Traducoes/releases/download/generationzero-v1.0/generationzero.zip",
+      "arquivo_nome": "generationzero.zip",
+      "metodo": "generationzero_tab21",
+      "pasta_dica": "Detecção automática pela Steam; pasta principal que contém GenerationZero_F.exe"
     }
   ]
 }
